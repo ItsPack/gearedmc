@@ -11,7 +11,7 @@ $(document).ready(function() {
 	    // [string|object]
 	    // Selector for children of `itemContainer` to flip
 	
-	    start: 'center',
+	    start: '3',
 	    // ['center'|number]
 	    // Zero based index of the starting item, or use 'center' to start in the middle
 	
